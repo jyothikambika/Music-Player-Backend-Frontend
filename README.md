@@ -1,5 +1,12 @@
 # Music-Player-Frontend Demo
 
+Submitted By: 
+221FA20008 : Sukesh 
+221FA20010 : G.Lokesh 
+221FA20012 : Ramesh 
+221FA20018 : N.Lasya 
+221FA20022 : R.Jyothikambika
+
 [fed816a9-2757-46f8-95cf-1a75f46a4aee.webm](https://github.com/user-attachments/assets/7e9211e3-5ec6-4d08-b408-3be226de833b)
 
 ![Screenshot 2024-10-20 114110](https://github.com/user-attachments/assets/3ff0eaa5-994c-4f78-895c-1b34c7a29d3d)
